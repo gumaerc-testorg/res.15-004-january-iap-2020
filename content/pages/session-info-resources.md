@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Session Information and Resources
 uid: ecfb2dea-a55f-ca7b-59de-66ac822d44a4
 ---

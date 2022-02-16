@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/0553001f60e4a51ff989ad7318b7ff9e_o-Yp8A7BPE8.srt
+file: /media/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/0553001f60e4a51ff989ad7318b7ff9e_o-Yp8A7BPE8.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 0553001f-60e4-a51f-f989-ad7318b7ff9e

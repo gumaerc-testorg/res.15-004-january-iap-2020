@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Session Video and Slides
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Systems Thinking and Modeling for a Complex World
 uid: f6ab5ce2-0dd8-af87-08fc-836e9addc475
 video_files:
   archive_url: https://archive.org/download/mitres-15-004-iap-20/MITRES15-004IAP20_System_Dynamics_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/c3dd38f9af3052cca8d6f20cd171f1b7_o-Yp8A7BPE8.vtt
+  video_captions_file: /courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/c3dd38f9af3052cca8d6f20cd171f1b7_o-Yp8A7BPE8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/o-Yp8A7BPE8/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/0c69abc4986594e01df51c597cadc689_o-Yp8A7BPE8.pdf
+  video_transcript_file: /courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/0c69abc4986594e01df51c597cadc689_o-Yp8A7BPE8.pdf
 video_metadata:
   youtube_id: o-Yp8A7BPE8
 ---

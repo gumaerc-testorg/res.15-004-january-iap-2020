@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Session Video and Slides
 uid: 1d061bac-7bed-789e-f7d7-d37717ea82eb
 ---
