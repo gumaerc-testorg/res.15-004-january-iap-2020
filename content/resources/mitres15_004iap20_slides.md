@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Session Video and Slides
 parent_type: SupplementalResourceSection
+parent_uid: 1d061bac-7bed-789e-f7d7-d37717ea82eb
 resourcetype: Document
 title: 'Session slide deck: Systems Thinking and Modeling for a Complex World - IAP
   2020'
