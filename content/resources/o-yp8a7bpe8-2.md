@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/c3dd38f9af3052cca8d6f20cd171f1b7_o-Yp8A7BPE8.vtt
+file: /courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/c3dd38f9af3052cca8d6f20cd171f1b7_o-Yp8A7BPE8.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

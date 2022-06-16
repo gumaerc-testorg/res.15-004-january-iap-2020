@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the slide deck and video recording of the session.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Session Video and Slides
@@ -16,4 +17,4 @@ Visit the Sloan Teaching Resources Library to learn more about the simulator: _
 
 **Speaker:** James Edward Paine
 
-**Session Slides:** [Systems Thinking and Dynamic Modeling for a Complex World (PDF - 2.6MB)]({{< baseurl >}}/resources/mitres15_004iap20_slides)
+**Session Slides:** {{% resource_link 65a2dc74-33fc-b6cc-e64b-55da0342f0c0 "Systems Thinking and Dynamic Modeling for a Complex World (PDF - 2.6MB)" %}}

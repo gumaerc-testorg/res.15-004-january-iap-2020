@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains information and an overview of the session and additional
+  resources.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Session Information and Resources
@@ -23,16 +25,16 @@ Resources
 
 ### System Dynamics Classes Available on OCW
 
-[_15.871 Introduction to System Dynamics_](/courses/15-871-introduction-to-system-dynamics-fall-2013/)
+[_15.871 Introduction to System Dynamics_](/courses/15-871-introduction-to-system-dynamics-fall-2013)
 
-[_15.872 System Dynamics II_](/courses/15-872-system-dynamics-ii-fall-2013/)
+[_15.872 System Dynamics II_](/courses/15-872-system-dynamics-ii-fall-2013)
 
-[_15.988 System Dynamics Self Study_](/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/)
+[_15.988 System Dynamics Self Study_](/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999)
 
 [_15.879 Research Seminar in System Dynamics_  
-](/courses/15-879-research-seminar-in-system-dynamics-spring-2014/)
+](/courses/15-879-research-seminar-in-system-dynamics-spring-2014)
 
-[_15.875 Applications of System Dynamics_](/courses/15-875-applications-of-system-dynamics-spring-2004/)
+[_15.875 Applications of System Dynamics_](/courses/15-875-applications-of-system-dynamics-spring-2004)
 
 ### System Dynamics Classes at MIT
 
@@ -70,7 +72,7 @@ Repenning, N.P. "[Capability Traps and Self-Confirming Attribution Errors in the
 
 [Tom Fiddaman’s MetaSD](https://metasd.com/model-library/)
 
-[MIT OCW System Dynamics Self Study](/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/)
+[MIT OCW System Dynamics Self Study](/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999)
 
 [MIT System Dynamics Journal Club](http://sdjournalclub.mit.edu/)
 
