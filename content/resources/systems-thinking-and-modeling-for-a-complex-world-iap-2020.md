@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Full session video recording of _Systems Thinking and Dyamic Modeling for a Complex Wold_ which was taught in January 2020 during MIT's Independent Activities Period (IAP). This one-day workshop provides a brief overview of System Dynamics and a hands-on simulation experience, the Fishbanks Management Simulation. It also serves as a preview of the more in-depth coverage of system dynamics available in courses offered at MIT Sloan such as 15.871, 15.872, and 15.873. _\[Note: The Fishbanks Management Simulation is removed due to copyright restrictions_._\]_
 
 **Speaker:** James Edward Paine
-
-
 

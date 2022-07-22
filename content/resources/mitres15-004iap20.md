@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Flowchart depicting that structure yields behavior with events at the
     apex as having the most visibility.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: MITRES15-004IAP20.jpg
