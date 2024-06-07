@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/811446c0ce86ebd1d483baa5a5fb3eda_MITRES15-004IAP20-th.jpg
+file_size: 22392
 file_type: image/jpeg
 image_metadata:
   caption: This course explores systems interactions in the real world, providing
