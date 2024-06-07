@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/0c69abc4986594e01df51c597cadc689_o-Yp8A7BPE8.pdf
+file_size: 114613
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
