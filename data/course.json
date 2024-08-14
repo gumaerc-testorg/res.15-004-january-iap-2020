@@ -30,9 +30,10 @@
     "website": "res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020"
   },
   "course_title": "System Dynamics: Systems Thinking and Modeling for a Complex World",
+  "hide_download": false,
   "course_description": "This one-day workshop provides a brief overview of system dynamics and a hands-on simulation experience. It also serves as a preview of the more in-depth coverage of the subject available in other courses offered at MIT Sloan.\n",
   "department_numbers": [
-    "RES"
+    "15"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.15-004",
