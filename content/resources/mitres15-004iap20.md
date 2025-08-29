@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/053b70bcb88e0ffc32bce16edfba06a9_MITRES15-004IAP20.jpg
+file: /ol-ocw-studio-app/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/053b70bcb88e0ffc32bce16edfba06a9_MITRES15-004IAP20.jpg
 file_size: 58106
 file_type: image/jpeg
 image_metadata:
