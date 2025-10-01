@@ -16,9 +16,9 @@ There are no prerequisites for this session.
 Session Information
 -------------------
 
-This one-day workshop provides a brief overview of system dynamics and a hands-on simulation experience, the [_Fishbanks_](https://mitsloan.mit.edu/teaching-resources-library/fishbanks-a-renewable-resource-management-simulation) management simulation. This session also serves as a preview of the more in-depth coverage available in courses offered at MIT Sloan such as _15.871 Introduction to System Dynamics_, _15.872 System Dynamics II_, and _15.873 System Dynamics for Business and Policy_.
+This one-day workshop provides a brief overview of system dynamics and a hands-on simulation experience, the {{% resource_link "5644df71-57db-49de-a4b0-907dc378ae93" "_Fishbanks_" %}} management simulation. This session also serves as a preview of the more in-depth coverage available in courses offered at MIT Sloan such as _15.871 Introduction to System Dynamics_, _15.872 System Dynamics II_, and _15.873 System Dynamics for Business and Policy_.
 
-_Systems Thinking and Modeling for a Complex World_ was taught in January 2020 during MIT's [Independent Activities Period (IAP)](https://elo.mit.edu/iap/). Each year hundreds of different activities and classes are offered during this four-week period in January on a wide range of both academic and nonacademic topics.
+_Systems Thinking and Modeling for a Complex World_ was taught in January 2020 during MIT's {{% resource_link "7c1cd8f7-98f1-49c3-ade0-dbe478e9a85c" "Independent Activities Period (IAP)" %}}. Each year hundreds of different activities and classes are offered during this four-week period in January on a wide range of both academic and nonacademic topics.
 
 Resources
 ---------
@@ -38,13 +38,13 @@ Resources
 
 ### System Dynamics Classes at MIT
 
-[_15.871 Introduction to System Dynamics_](http://catalog.mit.edu/search/?search=15.871)
+{{% resource_link "7c003ab6-b490-4eed-a232-3f432b187dad" "_15.871 Introduction to System Dynamics_" %}}
 
-[_15.872 System Dynamics II_](http://catalog.mit.edu/search/?search=15.872)
+{{% resource_link "dd1fbabd-db4a-4eb8-afc2-0313b0503d87" "_15.872 System Dynamics II_" %}}
 
-[_15.873 System Dynamics for Business and Policy_](http://catalog.mit.edu/search/?search=15.873)
+{{% resource_link "631bf5fc-2a63-4780-a200-a268b55a13f6" "_15.873 System Dynamics for Business and Policy_" %}}
 
-[_15.8731 System Dynamics: Tools for Solving Complex Problems_](http://catalog.mit.edu/search/?search=15.8731)
+{{% resource_link "492b391c-22d7-4f89-b4f6-a497e55974c7" "_15.8731 System Dynamics: Tools for Solving Complex Problems_" %}}
 
 ### Books
 
@@ -56,56 +56,56 @@ Meadows, D., J. Randers, and D. Meadows. _Limits to Growth: The 30-Year Update_.
 
 ### Articles
 
-Sterman, J. "[System Dynamics at Sixty: The Path Forward](https://doi.org/10.1002/sdr.1601)." _System Dynamics Review_. 14 September 2018. DOI: 10.1002/sdr.1601
+Sterman, J. "{{% resource_link "747f8a02-4faf-4e0a-a3e1-355087994e2a" "System Dynamics at Sixty: The Path Forward" %}}." _System Dynamics Review_. 14 September 2018. DOI: 10.1002/sdr.1601
 
-Repenning, N.P. "[Selling System Dynamics to (Other) Social Scientists](https://doi.org/10.1002/sdr.278)." _System Dynamics Review_. 12 January 2004. DOI: 10.1002/sdr.278
+Repenning, N.P. "{{% resource_link "f0cefc17-594f-4a87-a44a-01dc75c10d46" "Selling System Dynamics to (Other) Social Scientists" %}}." _System Dynamics Review_. 12 January 2004. DOI: 10.1002/sdr.278
 
-Rahmandad, H., R. Henderson, N.P. Repenning. "[Making the Numbers? 'Short Termism' and the Puzzle of Only Occasional Disaster](https://doi.org/10.1287/mnsc.2016.2670)." _Management Science_ 64(3), 8 November 2016. DOI: 10.1287/mnsc.2016.2670
+Rahmandad, H., R. Henderson, N.P. Repenning. "{{% resource_link "50ebaea1-ce45-4f7c-9bbb-c39dcb83c101" "Making the Numbers? 'Short Termism' and the Puzzle of Only Occasional Disaster" %}}." _Management Science_ 64(3), 8 November 2016. DOI: 10.1287/mnsc.2016.2670
 
-Repenning, N.P., J. Sterman. "[Nobody ever gets credit for fixing problems that never happened: Creating and sustaining process improvement](https://doi.org/10.1109/EMR.2002.1167285)." _IEEE Engineering Management Review_ 30(4) 2002. DOI: 10.1109/EMR.2002.1167285
+Repenning, N.P., J. Sterman. "{{% resource_link "725d4bbf-42eb-44b2-a775-338740d6565a" "Nobody ever gets credit for fixing problems that never happened: Creating and sustaining process improvement" %}}." _IEEE Engineering Management Review_ 30(4) 2002. DOI: 10.1109/EMR.2002.1167285
 
-Repenning, N.P. "[Capability Traps and Self-Confirming Attribution Errors in the Dynamics of Process Improvement](https://doi.org/10.2307/3094806)." _Administrative Science Quarterly_. June 1, 2002. DOI: 10.2307/3094806
+Repenning, N.P. "{{% resource_link "a63f2187-d582-45e0-81e3-ebfa8c0d9af7" "Capability Traps and Self-Confirming Attribution Errors in the Dynamics of Process Improvement" %}}." _Administrative Science Quarterly_. June 1, 2002. DOI: 10.2307/3094806
 
 ### Websites
 
-[Creative Learning Exchange](http://www.clexchange.org/)
+{{% resource_link "e20ef44d-1ce8-42f7-8331-0a145c09174d" "Creative Learning Exchange" %}}
 
-[Tom Fiddaman’s MetaSD](https://metasd.com/model-library/)
+{{% resource_link "55449c10-c390-4f78-8569-c6a70ab5578d" "Tom Fiddaman’s MetaSD" %}}
 
 [MIT OCW System Dynamics Self Study](/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999)
 
-[MIT System Dynamics Journal Club](http://sdjournalclub.mit.edu/)
+{{% resource_link "d5b8f123-9f1f-4339-87f8-b7f3b01002b0" "MIT System Dynamics Journal Club" %}}
 
-[The System Dynamics Society](https://www.systemdynamics.org/what-is-sd)
+{{% resource_link "5ae1a8da-77df-46bd-a067-6fdef9e9e943" "The System Dynamics Society" %}}
 
 ### Software
 
-[Vensim](https://vensim.com/)
+{{% resource_link "67b572a5-adc5-4be3-8d6f-a3515fdd72c0" "Vensim" %}}
 
-[Stella Architect](https://www.iseesystems.com/store/products/stella-architect.aspx)
+{{% resource_link "35854a33-ce60-4a93-bf3f-c9701badd047" "Stella Architect" %}}
 
-[NetLogo](https://ccl.northwestern.edu/netlogo/)
+{{% resource_link "78830e74-eb49-49e1-83b0-f1f58f205ec9" "NetLogo" %}}
 
-[R Language](https://www.r-project.org/)
+{{% resource_link "1a5012e2-60bd-49ec-a17c-4aeffac5f60f" "R Language" %}}
 
-[MATLAB](https://www.mathworks.com/products/matlab.html)
+{{% resource_link "c881b73a-2173-4792-8718-097bb553a696" "MATLAB" %}}
 
-[Python](https://www.python.org/)
+{{% resource_link "2aa7ac25-2029-41e4-a3a7-21b52efb922f" "Python" %}}
 
-[TensorFlow](https://www.tensorflow.org/)
+{{% resource_link "f08d781f-f8ac-4e8d-8d0d-5eb460da18d6" "TensorFlow" %}}
 
-[Mathematica](https://www.wolfram.com/mathematica/)
+{{% resource_link "11e7ba19-bd3f-4bb9-a1e9-cec9de1861db" "Mathematica" %}}
 
 ### Resources on Jay Forrester
 
-Dizikes, P. "[The Many Careers of Jay Forrester](https://www.technologyreview.com/2015/06/23/167538/the-many-careers-of-jay-forrester/)." _MIT Technology Review_, June 23, 2015.
+Dizikes, P. "{{% resource_link "5beddb70-c5e3-4315-8ed7-d3f04bd01e10" "The Many Careers of Jay Forrester" %}}." _MIT Technology Review_, June 23, 2015.
 
-Forrester, J.W. ["The Beginnings of System Dynamics" (PDF)](http://web.mit.edu/sysdyn/sd-intro/D-4165-1.pdf). MIT D-4165-1 (1996).
+Forrester, J.W. {{% resource_link "dbbd0e65-b09d-4792-a53e-443d3a89c35f" "\"The Beginnings of System Dynamics\" (PDF)" %}}. MIT D-4165-1 (1996).
 
 ### Climate Policy Simulator
 
-[En-Roads Climate Policy Simulator](https://en-roads.climateinteractive.org/scenario.html?v=2.7.6)
+{{% resource_link "5f36915e-b023-4653-aa42-ca7f44018d8c" "En-Roads Climate Policy Simulator" %}}
 
 ### Just for Fun
 
-[Spurious Correlations](https://www.tylervigen.com/spurious-correlations) (Tyler Vigen's website)
+{{% resource_link "8f852219-2aa4-41a8-adc9-dae463754bc6" "Spurious Correlations" %}} (Tyler Vigen's website)

@@ -13,7 +13,7 @@ uid: 1d061bac-7bed-789e-f7d7-d37717ea82eb
 
 _\[Note: The_ Fishbanks _management simulation portion of the workshop has been removed due to copyright restrictions.\]_
 
-Visit the Sloan Teaching Resources Library to learn more about the simulator: _[Fishbanks: A Renewable Resource Management Simulation](https://mitsloan.mit.edu/teaching-resources-library/fishbanks-a-renewable-resource-management-simulation)_.
+Visit the Sloan Teaching Resources Library to learn more about the simulator: _{{% resource_link "5644df71-57db-49de-a4b0-907dc378ae93" "Fishbanks: A Renewable Resource Management Simulation" %}}_.
 
 **Speaker:** James Edward Paine
 
